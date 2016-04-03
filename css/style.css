@@ -73,10 +73,11 @@
     width: 40px;
     border-radius: 40px;
     background: transparent;
-    box-shadow: 105px 45px 0 pink;
+    box-shadow: 105px 55px 0 pink,
+    105px 105px 0 pink;
 }
 
-.B:after {
+/*.B:after {
     position: absolute;
     content: '';
     top: -60px;
@@ -87,7 +88,7 @@
     background: transparent;
     box-shadow:
     110px 110px 0 pink;
-}
+}*/
 
 .C {
   float: left;
@@ -146,9 +147,8 @@
     border-radius: 40px;
     background: transparent;
     box-shadow: 105px 60px 0 pink,
-    105px 75px 0 pink,
-    105px 90px 0 pink,
-    105px 105px 0 pink;
+    105px 80px 0 pink,
+    105px 100px 0 pink;
 }
 
 .E {
@@ -177,10 +177,11 @@
     width: 40px;
     border-radius: 40px;
     background: transparent;
-    box-shadow: 140px 60px 0 pink;
+    box-shadow: 140px 60px 0 pink,
+    140px 100px 0 pink;
 }
 
-.E:after {
+/*.E:after {
     position: absolute;
     content: '';
     top: -60px;
@@ -191,7 +192,7 @@
     background: transparent;
     box-shadow:
     140px 110px 0 pink;
-}
+}*/
 
 .F {
   float: left;
